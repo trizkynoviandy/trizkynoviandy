@@ -1,4 +1,5 @@
 ### Hi there 👋
+I graduated from the Department Informatics, Universitas Syiah Kuala in 2020.
 
 **Languages and Tools:**
 
